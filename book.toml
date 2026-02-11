@@ -1,0 +1,8 @@
+[book]
+title = "Hands On Gleam"
+authors = ["lukwol"]
+language = "en"
+
+# book.toml
+[output.html.playground]
+line-numbers = true
